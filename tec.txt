@@ -1,0 +1,7 @@
+使用技術
+
+    gulp 模組
+    pug 模板 編輯 html
+    sass or scss 編輯 css
+    es6 編輯
+    
